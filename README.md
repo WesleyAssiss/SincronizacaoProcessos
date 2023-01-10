@@ -10,7 +10,7 @@ Uma das formas de correção para isso é a utilização do semáforo,uma variá
 informar se a sessão crítica está sendo utilizada por um processo ou não.Neste caso, 
 apenas quando estiver livre que outro processo poderá utilizá-la.
 
-Threads agindo de forma concorrente:
+Threads atuando de forma concorrente:
 ![Semaphore ERRO](https://user-images.githubusercontent.com/88063740/211684313-0a949b46-cb12-46a0-8fda-ef35367c6df5.png)
 
 Threads utilizando semáforo:
