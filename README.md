@@ -9,3 +9,8 @@ muitas vezes o dado desatualizado.
 Uma das formas de correção para isso é a utilização do semáforo,uma variável capaz de 
 informar se a sessão crítica está sendo utilizada por um processo ou não.Neste caso, 
 apenas quando estiver livre que outro processo poderá utilizá-la.
+
+![Semaphore ERRO](https://user-images.githubusercontent.com/88063740/211684313-0a949b46-cb12-46a0-8fda-ef35367c6df5.png)
+
+
+![Semaphore Resolvido](https://user-images.githubusercontent.com/88063740/211684329-295ce2b1-191a-425f-b24d-989f8a165bc3.png)
